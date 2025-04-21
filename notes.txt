@@ -1,0 +1,3 @@
+createRoot erstellt eine React-Root-Instanz, die für das Rendering der React-Komponenten in einem bestimmten DOM-Element verantwortlich ist.
+Es ermöglicht die Nutzung von Concurrent Rendering, einer neuen Funktion.
+Es ersetzt die ältere Methode ReactDOM.render, die in React 17 und früher verwendet wurde.
